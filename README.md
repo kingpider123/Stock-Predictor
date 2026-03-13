@@ -1,6 +1,6 @@
 # Stock-Predictor
 
-Basically try to implementing 6 different approaches from traditional regression to LSTM neural networks.
+Basically try to implement 6 different approaches from traditional regression to LSTM neural networks.
 
 ## Models Implemented
 
